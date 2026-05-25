@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+joblib
+matplotlib
+scikit-learn
+scipy
+nbconvert
+Flask
+tqdm
+numba
