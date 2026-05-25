@@ -11,4 +11,4 @@ This project is licensed under the MIT license.
 ## Author
 
 **Nicolas Vannson** — Hearing Data Scientist
-[memaudata.github.io](https://memaudata.github.io) · [hearingdatascience.com](https://hearingdatascience.com)
+[memaudata.github.io](https://memaudata.github.io)
